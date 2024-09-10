@@ -1,0 +1,10 @@
+{
+  "sap": {
+      "quality object": [
+          {
+              "function_name": "quality_func_in",
+              "kw_params": {"column_name": "quality_object", "values": ["UE_CONDR", 1]},
+          }
+      ]
+  }
+}
